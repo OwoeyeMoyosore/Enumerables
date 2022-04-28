@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Join", "Join\Join.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Set Operators", "Set Operators\Set Operators.csproj", "{51B75284-9EE5-48B9-AC12-993AD87E9EE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set Operators Classwork", "Set Operators Classwork\Set Operators Classwork.csproj", "{53E287C0-517C-4209-889B-D13272D96921}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{51B75284-9EE5-48B9-AC12-993AD87E9EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51B75284-9EE5-48B9-AC12-993AD87E9EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51B75284-9EE5-48B9-AC12-993AD87E9EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E287C0-517C-4209-889B-D13272D96921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E287C0-517C-4209-889B-D13272D96921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E287C0-517C-4209-889B-D13272D96921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E287C0-517C-4209-889B-D13272D96921}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
